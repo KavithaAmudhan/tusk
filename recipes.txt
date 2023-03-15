@@ -6,3 +6,5 @@ prawn 65
 fish fry
 crab kurma
 egg omelet
+
+Thank you!
